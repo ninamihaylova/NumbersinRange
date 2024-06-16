@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\bin\Debug\net8.0\NumbersinRange.exe
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\bin\Debug\net8.0\NumbersinRange.deps.json
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\bin\Debug\net8.0\NumbersinRange.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\bin\Debug\net8.0\NumbersinRange.dll
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\bin\Debug\net8.0\NumbersinRange.pdb
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\NumbersinRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\NumbersinRange.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\NumbersinRange.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\NumbersinRange.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\NumbersinRange.dll
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\refint\NumbersinRange.dll
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\NumbersinRange.pdb
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\NumbersinRange.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumbersinRange\NumbersinRange\obj\Debug\net8.0\ref\NumbersinRange.dll
